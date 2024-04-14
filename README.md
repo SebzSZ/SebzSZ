@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">🖥️ Computer engineer student at UNAM Faculty of Engineering. 🖥️<br><br>🎮 Co-owner of Zetta Games Studio. 🎮<br><br>👨‍💻 Currently learning design patterns. 👨‍💻<br><br>📖 I have some experience in music composition, narrative creation and game develop with Unity. 📖</p>
+<p align="center">🖥️ Computer engineer student at UNAM Faculty of Engineering. 🖥️<br><br>🎮 Owner of Zetta Games Studio. 🎮<br><br>👨‍💻 Currently learning design patterns. 👨‍💻<br><br>📖 I have some experience in music composition, narrative creation and game develop with Unity. 📖</p>
 
 ###
 
