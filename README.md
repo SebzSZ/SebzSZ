@@ -1,34 +1,43 @@
-![HeaderGitHub](https://github.com/SebzSZ/SebzSZ/assets/112099506/e0bdfead-e5c1-44c7-9e20-2ff185daf465)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SebzSZ/count.svg?"  />
-</div>
-
-###
-
 <h1 align="left">💫 About Me:</h1>
 
+<p align="left">
+  🎓 <b>9th-semester Computer Engineering student</b> at UNAM Faculty of Engineering.<br><br>
+  🎮 <b>Game Developer & Owner</b> of Zetta Games Studio.<br><br>
+  💻 Currently focused on deepening my knowledge of <b>Unity</b>, <b>design patterns</b>, and <b>real-time VFX</b>.<br><br>
+  📖 Experienced in game development, narrative design, and music composition, with a strong capability for <b>didactic communication</b> and technical mentoring.
+</p>
+
 ###
 
-<p align="center">🖥️ Computer engineer student at UNAM Faculty of Engineering. 🖥️<br><br>🎮 Owner of Zetta Games Studio. 🎮<br><br>👨‍💻 Currently learning design patterns. 👨‍💻<br><br>📖 I have some experience in music composition, narrative creation and game develop with Unity. 📖</p>
+<h1 align="left">🚀 Featured Projects:</h1>
+
+### Lillith's Dark Incident
+<table>
+  <tr>
+    <td width="50%">
+      <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b188297b-5230-4934-90a8-a822ac881763" />
+    </td>
+    <td width="50%">
+      Dive into a vibrant, fast-paced bullet hell adventure designed as the perfect gateway for newcomers to the genre. Join Lillith on a whimsical misadventure to fix a magical mishap her carelessness caused.<br><br>
+      <b>Tech Highlights:</b> Developed in <b>Unity (C#)</b>. Features dynamic and optimized masive bullet patterns, original narrative design, and cross-platform builds (Windows, Mac, Linux).<br><br>
+      <a href="https://github.com/ZettaGames/Lillith-s-Dark-Incident-Dep">🔗 View Repository</a> &nbsp; | &nbsp; <a href="https://zetta-games.itch.io/lilliths-dark-incident">🎮 Download & Play</a>
+    </td>
+  </tr>
+</table>
 
 ###
 
 <h1 align="left">🌐 Social Networks:</h1>
 
-###
-
-<div align="center">
+<div align="left">
+  <a href="https://www.linkedin.com/in/sebastian-b-lopez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@sebzsz" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
   <a href="https://twitter.com/SebzSZ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/sebzzupremo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.twitch.tv/sebzsz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
 </div>
 
@@ -36,48 +45,33 @@
 
 <h1 align="left">💻 Tech Stack:</h1>
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://downloadr2.apkmirror.com/wp-content/uploads/2023/03/52/640e9060bd50b.png" height="40" alt="medibang logo"  />
-  <img width="12" />
-  <img src="https://www.pugetsystems.com/wp-content/uploads/2023/02/FL-Studio-Logo-Icon.png" height="40" alt="flstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://share.natebeaty.com//aseprite-no-border/aseprite-no-border.png" height="40" alt="aseprite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+### 🕹️ Core & Graphics
+<div align="left">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl&logoColor=black" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/OpenAL-000000?style=for-the-badge&logoColor=white" alt="OpenAL" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </div>
 
-###
+### 🌐 Web & Others
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
 
-<h1 align="left">📊 GitHub Stats:</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebzSZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebzSZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=SebzSZ&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+### 🎨 Creative & Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/FL%20Studio-FF8C00?style=for-the-badge&logoColor=white" alt="FL Studio" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/GIMP-5C5C5C?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Office" />
 </div>
 
 ###
